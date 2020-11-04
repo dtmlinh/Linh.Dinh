@@ -3,11 +3,14 @@ id: about
 title: About
 ---
 Current MSCAPP Candidate at the University of Chicago Harris School of Public Policy.\
-Let's use technology to make the world a better place.
+Let's use technology to make the world a better place!
 
 ## Education
-1. Smith College (Bachelor of Arts in Mathematics and Economics, January 2014)\
-2. University of Chicago Harris School of Public Policy (Master of Science in Computational Analysis and Public Policy, Expected June 2021)
+1. Smith College\
+Bachelor of Arts in Mathematics and Economics, January 2014)
+
+2. University of Chicago Harris School of Public Policy\
+Master of Science in Computational Analysis and Public Policy, Expected June 2021
 
 ## Experience
 1. Environmental Law & Policy Center (2020-present)\
