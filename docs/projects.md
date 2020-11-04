@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+1. Energy Consumption by State: [links](https://github.com/dtmlinh/Energy-Search-Tool)
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+2. Chicago Air Quality Comparison: [links](https://github.com/dtmlinh/Air-Quality-Tool)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+3. Chicago Housing Prices: [links](https://github.com/dtmlinh/ml-project)
 
-![Add alternate text for image](./assets/rosemary.png)
+4. Food Inspection API: [links](https://github.com/dtmlinh/food_inspection)
