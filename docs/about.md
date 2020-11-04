@@ -2,31 +2,26 @@
 id: about
 title: About
 ---
+Current MSCAPP Candidate at the University of Chicago Harris School of Public Policy.
+Let's use technology to make the world a better place.
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+## Education
+1. Smith College (Bachelor of Arts in Mathematics and Economics, January 2014)
+2. University of Chicago Harris School of Public Policy (Master of Science in Computational Analysis and Public Policy, Expected June 2021)
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
-
-## Current Role
-
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+## Experience
+1. Environmental Law & Policy Center (2020-present)
+Citizen Science Air Quality Monitoring Program Intern
+2. University of Chicago Medicine (2020-present)
+Value-Based Payment Models Intern
+3. Chicago Department of Public Health (2020-present)
+Public Service Intern
+4. Everquote, Inc. (2016-2020)
+Analytics Lead
+5. Compass Lexecon (2014-2016)
+Senior Analyst
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- LinkedIn: https://www.linkedin.com/in/linh-tdinh/
+- GitHub: https://github.com/dtmlinh
