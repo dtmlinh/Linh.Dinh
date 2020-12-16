@@ -9,4 +9,4 @@ title: Projects
 
 3. Chicago Housing Prices: [link](https://github.com/dtmlinh/ml-project)
 
-4. Food Inspection API: [link](https://github.com/dtmlinh/food_inspection)
+4. Food Inspection API: [link](https://github.com/dtmlinh/food_inspection/tree/master/project)
