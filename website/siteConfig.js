@@ -30,6 +30,7 @@ const siteConfig = {
 
     // For no header links in the top nav bar -> headerLinks: [],
     customDocsPath: 'website/docs',
+    docsUrl: '',
     headerLinks: [
         { doc: "about", label: "About" },
         { doc: "projects", label: "Projects" },
