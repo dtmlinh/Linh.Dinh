@@ -14,7 +14,6 @@ const users = [];
 const siteConfig = {
     title: 'Linh Dinh', // Title for your website.
     tagline: 'Aspiring data scientist, passionate about public health and environmental issues.',
-    project: 'Etc',
     profilePhoto: 'img/profile.png',
     url: 'https://dtmlinh.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -30,6 +29,7 @@ const siteConfig = {
     //   organizationName: 'JoelMarcey'
 
     // For no header links in the top nav bar -> headerLinks: [],
+    customDocsPath: 'website/docs';
     headerLinks: [
         { doc: "about", label: "About" },
         { doc: "projects", label: "Projects" },
