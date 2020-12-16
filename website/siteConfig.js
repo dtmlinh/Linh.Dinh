@@ -29,7 +29,7 @@ const siteConfig = {
     //   organizationName: 'JoelMarcey'
 
     // For no header links in the top nav bar -> headerLinks: [],
-    customDocsPath: 'website/docs';
+    customDocsPath: 'website/docs',
     headerLinks: [
         { doc: "about", label: "About" },
         { doc: "projects", label: "Projects" },
