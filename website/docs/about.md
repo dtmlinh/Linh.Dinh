@@ -19,7 +19,7 @@ Data Across Sector for Health Policy Intern
 2. University of Chicago Medicine (Jun 2020 - present)\
 Value-Based Payment Models Intern
 
-3. Chicago Department of Public Health (Dec 2019 - Nov 2020)\
+3. Chicago Department of Public Health (Dec 2019 - Dec 2020)\
 Public Service Intern
 
 4. Environmental Law & Policy Center (Jun 2020 - Nov 2020)\
