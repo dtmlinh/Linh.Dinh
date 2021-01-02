@@ -16,6 +16,6 @@ title: Projects
     
     The project is a machine learning model that predicts housing prices in Chicago, IL using neighborhood characteristics. Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing.
     
-    More details can be found in our [writeup paper](https://github.com/ymericson/ml-project/blob/master/ML%20Project%20Final%20Report.pdf).
+    More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).
 
 4. Food Inspection API: [link](https://github.com/dtmlinh/food_inspection/tree/master/project)
