@@ -9,9 +9,9 @@ title: Projects
     
     It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
 
-    Web link: https://us-energy-consumption.herokuapp.com/
     ![](assets/state_energy_search.gif)
-
+    Access the tool [here](https://us-energy-consumption.herokuapp.com/).
+    
 2. Chicago PM2.5 Levels: [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
 
     A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
@@ -23,10 +23,10 @@ title: Projects
       + locate blocks with much higher average PM 2.5 levels
       + identify hours/time periods with much higher average PM 2.5 levels
   
-    Web link: https://chicago-air-quality.herokuapp.com/
     ![](assets/air_quality_tool.gif)
+    Access the tool [here](https://chicago-air-quality.herokuapp.com/)
     
-    More detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/bio/blog/2020/11/02/blog-post)
+    And more detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/bio/blog/2020/11/02/blog-post)
 
 3. Chicago Housing Prices: [Source Codes](https://github.com/ymericson/ml-project)
     
