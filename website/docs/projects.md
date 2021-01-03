@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-## 1. Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
+1. ## Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
 
     A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
     
