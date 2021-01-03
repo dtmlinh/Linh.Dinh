@@ -13,6 +13,7 @@ title: Projects
     ![](assets/state_energy_search.gif)
 
 2. Chicago PM2.5 Levels: [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
+
     A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
 
     This tool aims to:
@@ -23,12 +24,12 @@ title: Projects
       + identify hours/time periods with much higher average PM 2.5 levels
   
     Web link: https://chicago-air-quality.herokuapp.com/
-    ![](assets/state_energy_search.gif)
+    ![](assets/air_quality_tool.gif)
     More detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/bio/blog/2020/11/02/blog-post)
 
 3. Chicago Housing Prices: [Source Codes](https://github.com/ymericson/ml-project)
     
-    The project is a machine learning model that predicts housing prices for 2021 (2 years into the future) in Chicago, IL using neighborhood characteristics. Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing.
+    The project is a machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing.
     
     ![](assets/Housing_Fig5.png)
     More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).
