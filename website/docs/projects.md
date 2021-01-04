@@ -59,4 +59,4 @@ title: Projects
     
     Contributors: Linh Dinh, Matthew Mauer
 
-## Additional older projects are on my personal [Github Page](https://github.com/dtmlinh). 
+5. ## Additional older projects are on my personal [Github Page](https://github.com/dtmlinh). 
