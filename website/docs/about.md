@@ -28,6 +28,18 @@ Analytics Lead
 5. Compass Lexecon (Mar 2014 - Oct 2016)\
 Senior Analyst
 
+# Skills
+
+- Python, R, Stata, Java
+- MS SQL, MySQL, PostgreSQL
+- Hadoop, HDFS, Hive, Spark, Hbase
+- Tableau, Looker
+- AWS
+- Html
+- Machine Learning
+- Webscraping
+- Microsoft Office
+
 ## Social Media
 
 - LinkedIn: https://www.linkedin.com/in/linh-tdinh/
