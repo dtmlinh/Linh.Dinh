@@ -28,7 +28,7 @@ Analytics Lead
 5. Compass Lexecon (Mar 2014 - Oct 2016)\
 Senior Analyst
 
-# Skills
+## Skills
 
 - Python, R, Stata, Java
 - MySQL, MS SQL, sqlite3, psycopg2
