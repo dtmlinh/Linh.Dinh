@@ -31,14 +31,14 @@ Senior Analyst
 # Skills
 
 - Python, R, Stata, Java
-- MS SQL, MySQL, PostgreSQL
-- Hadoop, HDFS, Hive, Spark, Hbase
+- MySQL, MS SQL, sqlite3, psycopg2
+- Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
 - Tableau, Looker
 - AWS
 - Html
-- Machine Learning
-- Webscraping
 - Microsoft Office
+- Machine Learning
+- Webscraping (beautifulsoup4, Selenium WebDriver, API)
 
 ## Social Media
 
