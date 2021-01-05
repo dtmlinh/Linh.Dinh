@@ -35,10 +35,8 @@ Senior Analyst
 - Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
 - Tableau, Looker
 - AWS
-- Html
-- Microsoft Office
-- Machine Learning
-- Webscraping (beautifulsoup4, Selenium WebDriver, API)
+- Webscraping (Html, beautifulsoup4, Selenium WebDriver, API)
+- Machine Learning, Data Visualization
 
 ## Social Media
 
