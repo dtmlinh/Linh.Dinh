@@ -30,7 +30,7 @@ Senior Analyst
 
 ## Skills
 
-- Python, R, Stata, Java
+- Python, Django, R, Stata, Java
 - MySQL, MS SQL, sqlite3, psycopg2
 - Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
 - Tableau, Looker
