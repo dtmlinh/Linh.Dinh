@@ -29,17 +29,21 @@ Analytics Lead
 Senior Analyst
 
 ## Skills
+
 __Expert__
+
 - Python, R, Stata
 - MySQL, MS SQL, sqlite3, psycopg2
 - Tableau, Looker
 - Webscraping (Html, beautifulsoup4, Selenium WebDriver, API)
 
 __Proficient__
+
 - Machine Learning, Data Visualization
 - Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
 
 __Novice__
+
 - AWS
 - Django, Java, SAS
 
