@@ -39,13 +39,15 @@ __Expert__
 
 __Proficient__
 
-- Machine Learning, Data Visualization
+- Django
+- AWS
 - Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
+- Machine Learning, Data Visualization
 
 __Novice__
 
-- AWS
-- Django, Java, SAS
+- Java
+- SAS
 
 ## Social Media
 
