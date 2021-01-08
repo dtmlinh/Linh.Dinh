@@ -67,8 +67,8 @@ title: Projects
         - database/transaction settings:
             - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading
         - process loaded data:
-            - add/remove table indexes (see note 1 below for details)
-            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes (see note 2 below for details)
+            - add/remove table indexes
+            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes
         -  return query results:
             - given a restaurant id, return all of its associated inspections
             - given an inspection id, return the restaurant info (incl. all linked restaurants)
