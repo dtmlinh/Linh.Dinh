@@ -55,7 +55,24 @@ title: Projects
     *More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).*
 
 
-4. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+4. ### Traffic Fatalities: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
+
+    A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
+
+    Contributors: Linh Dinh
+
+   The final output shows by State and Year: 
+   - The fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
+   - I then also included a few interesting data such as: 
+    + average number of minutes injured persons arrive at the hospital
+    + average number of hospitals within a 10 mile radius of the accident
+    + share of state spending on highway investments and health investments
+
+   ![](assets/Transportation-Analyses.gif)
+   
+   A related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/): [Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool). 
+   
+5. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
     A web service that implements:
 
@@ -79,4 +96,4 @@ title: Projects
     Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
 
 
-5. ### Additional older projects are on my personal [Github Page](https://github.com/dtmlinh). 
+6. ### Additional older projects are on my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
