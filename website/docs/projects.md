@@ -60,11 +60,8 @@ title: Projects
     A web service that implements:
 
     - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`:
-        - food inspections:
-            - can be loaded individually from json format or loaded in bulk from csv format
-            - are checked for duplicative data and would be handled appropriately
-        - tweets:
-            - are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat)
+        - food inspections: can be loaded individually from json format or loaded in bulk from csv format and are checked for duplicative data and would be handled appropriately
+        - tweets: are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat)
 
     - GET requests to configure database/transaction settings, process loaded data, and return query results:
         - database/transaction settings:
