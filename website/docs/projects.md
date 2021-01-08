@@ -55,7 +55,7 @@ title: Projects
     *More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).*
 
 
-4. ### Food Inspection API: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+4. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
     A web service that implements:
 
