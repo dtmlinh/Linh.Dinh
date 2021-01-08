@@ -11,7 +11,7 @@ title: Projects
     
     Contributors: Linh Dinh, Eric Son, Emily Zhang
 
-    Frameworks/tools/packages used: Django, Webscraping (beautifulsoup4), API Requests, sqlite3, Heroku
+    Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
 
     ![](assets/state_energy_search.gif)
     
@@ -31,7 +31,7 @@ title: Projects
       
     Contributors: Linh Dinh
 
-    Frameworks/tools/packages used: Django, Webscraping (Selenium), API Requests, Plotly, Heroku
+    Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
 
     ![](assets/air_quality_tool.gif)
     
@@ -55,7 +55,7 @@ title: Projects
     *More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).*
 
 
-4. ### Food Inspection API: [Source Codes](https://github.com/mrmauer/food_inspection)
+4. ### Food Inspection API: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
     A web service that implements:
 
