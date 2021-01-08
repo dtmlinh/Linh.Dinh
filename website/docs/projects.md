@@ -70,7 +70,7 @@ title: Projects
 
    ![](assets/Transportation-Analyses.gif)
    
-   *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)).*
+   *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S.*
    
 5. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
