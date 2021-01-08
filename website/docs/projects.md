@@ -62,11 +62,10 @@ title: Projects
     Contributors: Linh Dinh
 
    The final output shows by State and Year: 
-   - The fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
-   - I then also included a few interesting data such as: 
-    + average number of minutes injured persons arrive at the hospital
-    + average number of hospitals within a 10 mile radius of the accident
-    + share of state spending on highway investments and health investments
+   - the fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
+   - average number of minutes injured persons arrive at the hospital
+   - average number of hospitals within a 10 mile radius of the accident
+   - share of state spending on highway investments and health investments
 
    ![](assets/Transportation-Analyses.gif)
    
