@@ -95,4 +95,4 @@ title: Projects
     Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
 
 
-6. ### Additional older projects are on my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
+### Additional older projects are on my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
