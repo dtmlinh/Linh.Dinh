@@ -69,6 +69,8 @@ title: Projects
 
    ![](assets/Transportation-Analyses.gif)
    
+   *The application is packaged and deployed on AWS Single Server [here](http://ec2-18-218-215-12.us-east-2.compute.amazonaws.com:3000/accidents.html) using `CodeDeploy`.*
+   
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/home/blog/2014/04/10/blog-post)).*
    
 5. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
@@ -93,6 +95,5 @@ title: Projects
     Contributors: Linh Dinh, Matthew Mauer
 
     Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
-
 
 ### Additional older projects are on my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
