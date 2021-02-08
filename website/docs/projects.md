@@ -22,7 +22,7 @@ title: Projects
     
     *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*
     
-    *And more detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/bio/blog/2020/11/02/blog-post).*
+    *And more detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
 
 
 2. ### Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
@@ -52,7 +52,7 @@ title: Projects
     
     ![](assets/Housing_Fig5.png)
     
-    *More details can be found in our [writeup](https://dtmlinh.github.io/bio/blog/2020/06/15/blog-post).*
+    *More details can be found in our [writeup](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
 
 
 4. ### Traffic Fatalities: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
@@ -71,7 +71,7 @@ title: Projects
    
    *The application is packaged and deployed on AWS Single Server [here](http://ec2-18-218-215-12.us-east-2.compute.amazonaws.com:3000/accidents.html) using `CodeDeploy`.*
    
-   *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/home/blog/2014/04/10/blog-post)).*
+   *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
 5. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
