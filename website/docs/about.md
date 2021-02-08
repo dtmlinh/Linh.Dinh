@@ -13,19 +13,22 @@ Master of Science in Computational Analysis and Public Policy, Expected June 202
 Bachelor of Arts in Mathematics and Economics, January 2014
 
 ## Experience
-1. University of Chicago Medicine (Jun 2020 - present)\
+1. Illinois Public Health Institute (Dec 2020 - present)\
+Program Intern
+
+2. University of Chicago Medicine (Jun 2020 - present)\
 Value-Based Payment Models Intern
 
-2. Chicago Department of Public Health (Dec 2019 - Dec 2020)\
+3. Chicago Department of Public Health (Dec 2019 - Dec 2020)\
 Public Service Intern
 
-3. Environmental Law & Policy Center (Jun 2020 - Nov 2020)\
+4. Environmental Law & Policy Center (Jun 2020 - Nov 2020)\
 Citizen Science Air Quality Monitoring Program Intern
 
-4. Everquote, Inc. (Oct 2016 - May 2019)\
+5. Everquote, Inc. (Oct 2016 - May 2019)\
 Analytics Lead
 
-5. Compass Lexecon (Mar 2014 - Oct 2016)\
+6. Compass Lexecon (Mar 2014 - Oct 2016)\
 Senior Analyst
 
 ## Skills
