@@ -6,10 +6,10 @@ title: About
 - Aspiring data scientist, wanting to use technology to make the world a better place.
 
 ## Education
-1. University of Chicago Harris School of Public Policy\
+University of Chicago Harris School of Public Policy\
 Master of Science in Computational Analysis and Public Policy, Expected June 2021
 
-2. Smith College\
+Smith College\
 Bachelor of Arts in Mathematics and Economics, January 2014
 
 ## Experience
