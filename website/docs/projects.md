@@ -14,7 +14,7 @@ title: Projects
       + locate blocks with much higher average PM 2.5 levels
       + identify hours/time periods with much higher average PM 2.5 levels
       
-    Contributors: Linh Dinh
+    Author: Linh Dinh
 
     Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
 
@@ -31,7 +31,7 @@ title: Projects
     
     It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
     
-    Contributors: Linh Dinh, Eric Son, Emily Zhang
+    Authors: Linh Dinh, Eric Son, Emily Zhang
 
     Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
 
@@ -48,7 +48,7 @@ title: Projects
     
     Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
     
-    Contributors: Linh Dinh, Eric Son, Emily Zhang
+    Authors: Linh Dinh, Eric Son, Emily Zhang
     
     ![](assets/Housing_Fig5.png)
     
@@ -59,7 +59,7 @@ title: Projects
 
     A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
 
-    Contributors: Linh Dinh
+    Author: Linh Dinh
 
    The final output shows by State and Year: 
    - the fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
@@ -92,7 +92,7 @@ title: Projects
             - given an inspection id, return the restaurant info (incl. all linked restaurants)
             - given an inspection id, return all of its associated tweet keys
 
-    Contributors: Linh Dinh, Matthew Mauer
+    Authors: Linh Dinh, Matthew Mauer
 
     Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
 
