@@ -4,7 +4,9 @@ title: Projects
 ---
 
 
-## Chicago PM2.5 Levels Comparison: [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
+## Chicago PM2.5 Levels Comparison: 
+
+   [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
 
    A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
 
@@ -26,8 +28,10 @@ title: Projects
    ![](assets/air_quality_tool.gif)
     
 
-## Predicting housing prices in Chicago: [Source Codes](https://github.com/ymericson/ml-project)
-    
+## Predicting housing prices in Chicago: 
+   
+   [Source Codes](https://github.com/ymericson/ml-project)
+   
    A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
     
    Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing.
@@ -41,7 +45,9 @@ title: Projects
    ![](assets/Housing_Fig5.png)
     
     
-## Fatality rates of U.S. traffic accidents: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
+## Fatality rates of U.S. traffic accidents: 
+   
+   [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
    A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
 
@@ -60,7 +66,9 @@ title: Projects
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
    
-## Understanding Presidential Speeches and Executive Orders through Natural Language Processing: [Source Codes](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
+## Understanding Presidential Speeches and Executive Orders through Natural Language Processing: 
+
+   [Source Codes](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
    
    We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents.
    
@@ -73,7 +81,9 @@ title: Projects
    ![](assets/speeches.png)
     
 
-## Feature Extraction on Free-hand Sketches: [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
+## Feature Extraction on Free-hand Sketches:
+
+   [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
    Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
     
@@ -101,8 +111,10 @@ title: Projects
    ![](assets/state_energy_search.gif)
     
 
-## Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+## Food Inspections: 
     
+   [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+   
    A web service that implements:
 
    - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`:
