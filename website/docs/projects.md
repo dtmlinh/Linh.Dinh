@@ -3,7 +3,8 @@ id: projects
 title: Projects
 ---
 
-1. ### Chicago PM2.5 Levels: [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
+
+1. ### Chicago PM2.5 Levels Comparison: [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
 
     A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
 
@@ -25,22 +26,7 @@ title: Projects
     *And more detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
 
 
-2. ### Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
-
-    A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
-    
-    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
-    
-    Authors: Linh Dinh, Eric Son, Emily Zhang
-
-    Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
-
-    ![](assets/state_energy_search.gif)
-    
-    *Access the tool [here](https://us-energy-consumption.herokuapp.com/).*
-    
-
-3. ### Chicago Housing Prices: [Source Codes](https://github.com/ymericson/ml-project)
+2. ### Predicting housing prices in Chicago: [Source Codes](https://github.com/ymericson/ml-project)
     
     A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
     
@@ -53,9 +39,9 @@ title: Projects
     ![](assets/Housing_Fig5.png)
     
     *More details can be found in our [writeup](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
-
-
-4. ### Traffic Fatalities: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
+    
+    
+3. ### Fatality rates of U.S. traffic accidents: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
     A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
 
@@ -73,7 +59,52 @@ title: Projects
    
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
-5. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+   
+4. ### Understanding Presidential Speeches and Executive Orders through Natural Language Processing: [Source Codes](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
+   
+   We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents.
+   
+   Authors: Lily Grier, Linh Dinh, Roberto Barroso Luque
+   
+   Frameworks/tools/packages used: NLP, word2vec, doc2vec
+
+   ![](assets/speeches.gif)
+    
+   *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).*    
+   
+  
+5. ### Feature Extraction on Free-hand Sketches: [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
+
+    Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
+
+
+    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
+    
+    Authors: Linh Dinh, Xingyu Wang
+
+    Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
+
+    ![](assets/sketches.gif)
+    
+    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
+    
+    
+6. ### Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
+
+    A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
+    
+    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
+    
+    Authors: Linh Dinh, Eric Son, Emily Zhang
+
+    Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
+
+    ![](assets/state_energy_search.gif)
+    
+    *Access the tool [here](https://us-energy-consumption.herokuapp.com/).*
+
+
+7. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
     A web service that implements:
 
