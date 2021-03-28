@@ -19,7 +19,7 @@ Master of Science in Computational Analysis and Public Policy, Expected June 202
 Smith College\
 Bachelor of Arts in Mathematics and Economics, January 2014
 
-## Experience
+## Experience ([LinkedIn](https://www.linkedin.com/in/linh-tdinh/))
 
 University of Chicago Medicine (Jun 2020 - present)\
 Value-Based Payment Models Intern
@@ -56,8 +56,3 @@ __Novice__
 
 - Java
 - SAS
-
-## Social Media
-
-- LinkedIn: https://www.linkedin.com/in/linh-tdinh/
-- GitHub: https://github.com/dtmlinh
