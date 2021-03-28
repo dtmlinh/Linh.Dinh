@@ -28,7 +28,7 @@ a {
 }
 
 h1 {
-    font-size: 12px;
+    font-size: 10px;
 }
 
 h2 {
@@ -38,6 +38,11 @@ h2 {
 p {
     font-size: 10px;
 }
+
+div {
+    font-size: 10px;
+}
+
 
 img {
     max-width:100%;
