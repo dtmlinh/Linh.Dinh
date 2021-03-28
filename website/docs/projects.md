@@ -113,7 +113,7 @@ title: Projects
    ![](assets/state_energy_search.gif)
     
 
-## Food Inspections
+## Food Inspections API
     
    [Source Codes](https://github.com/dtmlinh/Food-Inspections)
    
