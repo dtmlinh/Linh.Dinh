@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-I'm pursuing an [M.S. in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago, where I study computer science, data science, and public policy.
+I'm pursuing an [M.S. in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago, where I study computer science, data science, and public policy. 
 
 My interests lie in the applications of data science and machine learning methods that aim to address healthcare and environmental issues. I am currently a value-based payment models intern at the University of Chicago Medicine. In this role, I create reportings and dashboards to support various value-based health programs.
 
@@ -13,6 +13,7 @@ Previously, I was an analytics lead at Everquote, an online marketing startup in
 
 University of Chicago\
 Master of Science in Computational Analysis and Public Policy, Expected June 2021
+•	Courses: Machine Learning, Content Analysis, Statistics, Computer Science, Algorithms, Databases, Big Data
 
 Smith College\
 Bachelor of Arts in Mathematics and Economics, January 2014
