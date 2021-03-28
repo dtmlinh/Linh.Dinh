@@ -42,6 +42,13 @@ ul {
     font-size: 10px;
 }
 
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height:auto;
+}
+
 .social a {
     margin-right: 20px;
 }
