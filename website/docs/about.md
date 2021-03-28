@@ -3,9 +3,9 @@ id: about
 title: About
 ---
 
-I'm currently studying data science and public policy in the [M.S. in Computational Analysis and Public Policy at The University of Chicago](https://capp.uchicago.edu/).
+I'm pursuing an [M.S. in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at The University of Chicago, where I study computer science, data science, and public policy.
 
-My interests are the applications of data science and machine learning methods that aim to address healthcare and environmental issues. I am currently a value-based payment models intern at the University of Chicago Medicine. In this role, I create reportings and dashboards to support various value-based health programs.
+My interests lie in the applications of data science and machine learning methods that aim to address healthcare and environmental issues. I am currently a value-based payment models intern at the University of Chicago Medicine. In this role, I create reportings and dashboards to support various value-based health programs.
 
 Previously, I was an analytics lead at Everquote, an online marketing startup in Cambridge, MA, where I used analytics to propose and drive successful marketing strategies. Before that, I was a senior analyst at Compass Lexecon, an economic consulting firm in Washington, DC, where I investigated and analyzed data to better understand and formulate critical arguments used in regulatory proceedings.
 
