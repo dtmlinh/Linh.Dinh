@@ -15,15 +15,15 @@ title: Projects
       + locate blocks with much higher average PM 2.5 levels
       + identify hours/time periods with much higher average PM 2.5 levels
       
-    Author: Linh Dinh
+   Author: Linh Dinh
 
-    Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
+   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
 
-    *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*
+   *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*
     
-    *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
+   *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
     
-    ![](assets/air_quality_tool.gif)
+   ![](assets/air_quality_tool.gif)
     
 
 ## Predicting housing prices in Chicago: [Source Codes](https://github.com/ymericson/ml-project)
