@@ -13,6 +13,7 @@ Previously, I was an analytics lead at Everquote, an online marketing startup in
 
 University of Chicago\
 Master of Science in Computational Analysis and Public Policy, Expected June 2021
+
 •	Courses: Machine Learning, Content Analysis, Statistics, Computer Science, Algorithms, Databases, Big Data
 
 Smith College\
