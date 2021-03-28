@@ -76,17 +76,14 @@ title: Projects
 5. ### Feature Extraction on Free-hand Sketches: [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
     Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
-
-
-    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
     
     Authors: Linh Dinh, Xingyu Wang
-
+    
     Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
-
+    
     ![](assets/sketches.png)
     
-    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
+     *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
     
     
 6. ### Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
