@@ -4,7 +4,7 @@ title: Projects
 ---
 
 
-## Chicago PM2.5 Levels Comparison: 
+## Chicago PM2.5 Levels Comparison
 
    [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
 
@@ -28,7 +28,7 @@ title: Projects
    ![](assets/air_quality_tool.gif)
     
 
-## Predicting housing prices in Chicago: 
+## Predicting housing prices in Chicago
    
    [Source Codes](https://github.com/ymericson/ml-project)
    
@@ -45,7 +45,7 @@ title: Projects
    ![](assets/Housing_Fig5.png)
     
     
-## Fatality rates of U.S. traffic accidents: 
+## Fatality rates of U.S. traffic accidents
    
    [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
@@ -66,7 +66,7 @@ title: Projects
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
    
-## Understanding Presidential Speeches and Executive Orders through Natural Language Processing: 
+## Understanding Presidential Speeches and Executive Orders through Natural Language Processing
 
    [Source Codes](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
    
@@ -81,7 +81,7 @@ title: Projects
    ![](assets/speeches.png)
     
 
-## Feature Extraction on Free-hand Sketches:
+## Feature Extraction on Free-hand Sketches
 
    [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
@@ -96,7 +96,9 @@ title: Projects
    ![](assets/sketches.png)
     
     
-## Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
+## Energy Consumption by State
+
+   [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
 
    A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
     
@@ -111,7 +113,7 @@ title: Projects
    ![](assets/state_energy_search.gif)
     
 
-## Food Inspections: 
+## Food Inspections
     
    [Source Codes](https://github.com/dtmlinh/Food-Inspections)
    
@@ -136,4 +138,6 @@ title: Projects
 
    Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
 
-## Additional older projects are on my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
+## Additional older projects 
+
+   On my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
