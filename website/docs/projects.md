@@ -45,14 +45,14 @@ title: Projects
 
     A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
 
-    Author: Linh Dinh
-
    The final output shows by State and Year: 
    - the fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
    - average number of minutes injured persons arrive at the hospital
    - average number of hospitals within a 10 mile radius of the accident
    - share of state spending on highway investments and health investments
-
+    
+   Author: Linh Dinh
+   
    ![](assets/Transportation-Analyses.gif)
    
    *The application is packaged and deployed on AWS Single Server [here](http://ec2-18-218-215-12.us-east-2.compute.amazonaws.com:3000/accidents.html) using `CodeDeploy`.*
