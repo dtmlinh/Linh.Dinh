@@ -68,7 +68,7 @@ title: Projects
    
    Frameworks/tools/packages used: NLP, word2vec, doc2vec
 
-   ![](assets/speeches.gif)
+   ![](assets/speeches.png)
     
    *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).*    
    
@@ -84,7 +84,7 @@ title: Projects
 
     Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
 
-    ![](assets/sketches.gif)
+    ![](assets/sketches.png)
     
     *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
     
