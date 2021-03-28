@@ -19,12 +19,12 @@ title: Projects
 
     Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
 
-    ![](assets/air_quality_tool.gif)
-    
     *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*
     
-    *And more detailed (but also preliminary) analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
-
+    *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
+    
+    ![](assets/air_quality_tool.gif)
+    
 
 2. ### Predicting housing prices in Chicago: [Source Codes](https://github.com/ymericson/ml-project)
     
@@ -35,10 +35,10 @@ title: Projects
     Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
     
     Authors: Linh Dinh, Eric Son, Emily Zhang
-    
+ 
+    *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
+     
     ![](assets/Housing_Fig5.png)
-    
-    *More details can be found in our [writeup](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
     
     
 3. ### Fatality rates of U.S. traffic accidents: [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
@@ -53,9 +53,9 @@ title: Projects
     
    Author: Linh Dinh
    
-   ![](assets/Transportation-Analyses.gif)
-   
    *The application is packaged and deployed on AWS Single Server [here](http://ec2-18-218-215-12.us-east-2.compute.amazonaws.com:3000/accidents.html) using `CodeDeploy`.*
+   
+   ![](assets/Transportation-Analyses.gif)
    
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
@@ -68,11 +68,11 @@ title: Projects
    
    Frameworks/tools/packages used: NLP, word2vec, doc2vec
 
-   ![](assets/speeches.png)
-    
    *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).*    
    
-  
+   ![](assets/speeches.png)
+    
+
 5. ### Feature Extraction on Free-hand Sketches: [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
     Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
@@ -81,9 +81,9 @@ title: Projects
     
     Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
     
+    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
+       
     ![](assets/sketches.png)
-    
-     *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
     
     
 6. ### Energy Consumption by State: [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
@@ -95,11 +95,11 @@ title: Projects
     Authors: Linh Dinh, Eric Son, Emily Zhang
 
     Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
-
-    ![](assets/state_energy_search.gif)
     
     *Access the tool [here](https://us-energy-consumption.herokuapp.com/).*
-
+    
+    ![](assets/state_energy_search.gif)
+    
 
 7. ### Food Inspections: [Source Codes](https://github.com/dtmlinh/Food-Inspections)
     
