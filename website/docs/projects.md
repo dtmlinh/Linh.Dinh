@@ -4,9 +4,9 @@ title: Projects
 ---
 
 
-## Chicago PM2.5 Levels Comparison
+## [Chicago PM2.5 Levels Comparison](https://github.com/dtmlinh/Air-Quality-Tool)
 
-   [Source Codes](https://github.com/dtmlinh/Air-Quality-Tool)
+   [Github](https://github.com/dtmlinh/Air-Quality-Tool)
 
    A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
 
@@ -28,9 +28,9 @@ title: Projects
    ![](assets/air_quality_tool.gif)
     
 
-## Predicting housing prices in Chicago
+## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project)
    
-   [Source Codes](https://github.com/ymericson/ml-project)
+   [Github](https://github.com/ymericson/ml-project)
    
    A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
     
@@ -45,9 +45,9 @@ title: Projects
    ![](assets/Housing_Fig5.png)
     
     
-## Fatality rates of U.S. traffic accidents
+## [Fatality rates of U.S. traffic accidents](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
    
-   [Source Codes](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
+   [Github](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
    A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
 
@@ -66,9 +66,9 @@ title: Projects
    *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
    
-## Understanding Presidential Speeches and Executive Orders through Natural Language Processing
+## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
 
-   [Source Codes](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
+   [Github](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
    
    We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents.
    
@@ -81,9 +81,9 @@ title: Projects
    ![](assets/speeches.png)
     
 
-## Feature Extraction on Free-hand Sketches
+## [Feature Extraction on Free-hand Sketches](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
-   [Source Codes](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
+   [Github](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
 
    Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
     
@@ -96,9 +96,9 @@ title: Projects
    ![](assets/sketches.png)
     
     
-## Energy Consumption by State
+## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
 
-   [Source Codes](https://github.com/dtmlinh/Energy-Search-Tool)
+   [Github](https://github.com/dtmlinh/Energy-Search-Tool)
 
    A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
     
@@ -113,9 +113,9 @@ title: Projects
    ![](assets/state_energy_search.gif)
     
 
-## Food Inspections API
+## [Food Inspections and Reviews](https://github.com/dtmlinh/Food-Inspections)
     
-   [Source Codes](https://github.com/dtmlinh/Food-Inspections)
+   [Github](https://github.com/dtmlinh/Food-Inspections)
    
    A web service that implements:
 
@@ -140,4 +140,4 @@ title: Projects
 
 ## Additional older projects 
 
-   On my personal [Github Page](https://github.com/dtmlinh?tab=repositories). 
+   On my personal [Github](https://github.com/dtmlinh?tab=repositories). 
