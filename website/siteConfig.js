@@ -70,8 +70,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'linh-tdinh',
-        twitter: '',
-        github: '',
+        github: 'dtmlinh',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
