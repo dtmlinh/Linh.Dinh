@@ -13,14 +13,13 @@ title: Projects
     - provide a more detailed view into specific neighborhoods, more specifically: \
       + locate blocks with much higher average PM 2.5 levels \
       + identify hours/time periods with much higher average PM 2.5 levels \
-      
    Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku` \
    *Access the tool [here](https://chicago-air-quality.herokuapp.com/).* \
    *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
    ![](assets/air_quality_tool.gif)
     
 
-## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) \
+## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) 
    with Eric Son, Emily Zhang
    
    A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. \
@@ -38,77 +37,57 @@ title: Projects
    - average number of minutes injured persons arrive at the hospital \
    - average number of hospitals within a 10 mile radius of the accident \
    - share of state spending on highway investments and health investments \
-   
-   ![](assets/Transportation-Analyses.gif)
-   
+   ![](assets/Transportation-Analyses.gif) \
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
    
-## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) \
+## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
    with Lily Grier, Roberto Barroso Luque
    
-   We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents.
-   
-   Frameworks/tools/packages used: NLP, word2vec, doc2vec
-
-   *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).*    
-   
+   We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents. \
+   Frameworks/tools/packages used: NLP, word2vec, doc2vec \
+   *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).* \
    ![](assets/speeches.png)
     
 
 ## [Feature Extraction on Free-hand Sketches](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
    with Xingyu Wang
 
-   Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
-   
-   Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
-    
-   *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
-       
+   Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. \
+   Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning \
+   *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).* \
    ![](assets/sketches.png)
     
     
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
+   with Eric Son, Emily Zhang
 
-   [Github](https://github.com/dtmlinh/Energy-Search-Tool)
-
-   A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
-    
-   It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. 
-    
-   Authors: Linh Dinh, Eric Son, Emily Zhang
-
-   Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`
-    
-   *Access the tool [here](https://us-energy-consumption.herokuapp.com/).*
-    
+   A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. \
+   It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API. \
+   Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku` \
+   *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
    ![](assets/state_energy_search.gif)
     
 
 ## [Food Inspections and Reviews](https://github.com/dtmlinh/Food-Inspections)
-    
-   [Github](https://github.com/dtmlinh/Food-Inspections)
+   with Matthew Mauer
    
-   A web service that implements:
+   A web service that implements: \
+   - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`: \
+        - food inspections: can be loaded individually from json format or loaded in bulk from csv format, checked for duplicative data, and handled appropriately \
+        - tweets: are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat) \
 
-   - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`:
-        - food inspections: can be loaded individually from json format or loaded in bulk from csv format, checked for duplicative data, and handled appropriately
-        - tweets: are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat)
-
-   - GET requests to configure database/transaction settings, process loaded data, and return query results:
-        - database/transaction settings:
-            - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading
-        - process loaded data:
-            - add/remove table indexes
-            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes
-        -  return query results:
-            - given a restaurant id, return all of its associated inspections
-            - given an inspection id, return the restaurant info (incl. all linked restaurants)
-            - given an inspection id, return all of its associated tweet keys
-
-   Authors: Linh Dinh, Matthew Mauer
-
-   Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/)
+   - GET requests to configure database/transaction settings, process loaded data, and return query results: \
+        - database/transaction settings: \
+            - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading \
+        - process loaded data: \
+            - add/remove table indexes \
+            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes \
+        -  return query results: \
+            - given a restaurant id, return all of its associated inspections \
+            - given an inspection id, return the restaurant info (incl. all linked restaurants) \
+            - given an inspection id, return all of its associated tweet keys \
+   Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/) \
 
 ## Additional older projects 
 
