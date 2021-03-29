@@ -20,51 +20,34 @@ title: Projects
    ![](assets/air_quality_tool.gif)
     
 
-## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project)
+## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) \
+   with Eric Son, Emily Zhang
    
-   [Github](https://github.com/ymericson/ml-project)
-   
-   A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
-    
-   Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing.
-    
-   Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
-    
-   Authors: Linh Dinh, Eric Son, Emily Zhang
- 
-   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
-     
+   A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. \
+   Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing. \
+   Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor. \
+   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).* \
    ![](assets/Housing_Fig5.png)
     
     
 ## [Fatality rates of U.S. traffic accidents](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
-   
-   [Github](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
-   A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc.
-
-   The final output shows by State and Year: 
-   - the fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc.
-   - average number of minutes injured persons arrive at the hospital
-   - average number of hospitals within a 10 mile radius of the accident
-   - share of state spending on highway investments and health investments
-    
-   Author: Linh Dinh
-   
-   *The application is packaged and deployed on AWS Single Server [here](http://ec2-18-218-215-12.us-east-2.compute.amazonaws.com:3000/accidents.html) using `CodeDeploy`.*
+   A project to look at the fatality rates of traffic accidents in the US and which factors might impact these rates. This project utitlizes several big data tools: AWS EMR cluster, `HDFS`, `Hive`, `Spark`, `Hbase`, etc. \ 
+   The final output shows by State and Year: \
+   - the fatality rate for serveral interesting conditions that might influence whether an accident is fatal or not: day vs. night time, at a junction, weather, etc. \
+   - average number of minutes injured persons arrive at the hospital \
+   - average number of hospitals within a 10 mile radius of the accident \
+   - share of state spending on highway investments and health investments \
    
    ![](assets/Transportation-Analyses.gif)
    
-   *Additionally, here's a related (but old) [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
+   *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
    
-## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
-
-   [Github](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric)
+## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) \
+   with Lily Grier, Roberto Barroso Luque
    
    We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents.
-   
-   Authors: Lily Grier, Linh Dinh, Roberto Barroso Luque
    
    Frameworks/tools/packages used: NLP, word2vec, doc2vec
 
@@ -74,13 +57,10 @@ title: Projects
     
 
 ## [Feature Extraction on Free-hand Sketches](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
-
-   [Github](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
+   with Xingyu Wang
 
    Wanting to see how neural network and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better.
-    
-   Authors: Linh Dinh, Xingyu Wang
-    
+   
    Frameworks/tools/packages used: Pytorch, Tensorflow, CNN, RNN, VAE, Self-supervised Learning
     
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).*    
