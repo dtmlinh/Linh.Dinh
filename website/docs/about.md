@@ -24,11 +24,11 @@ Bachelor of Arts in Mathematics and Economics, January 2014
 University of Chicago Medicine (Jun 2020 - present)\
 Value-Based Payment Models Intern
 
-Chicago Department of Public Health (Dec 2019 - Dec 2020)\
-Public Service Intern
-
 Environmental Law & Policy Center (Jun 2020 - Nov 2020)\
 Citizen Science Air Quality Monitoring Program Intern
+
+Chicago Department of Public Health (Dec 2019 - Dec 2020)\
+Public Service Intern
 
 Everquote, Inc. (Oct 2016 - May 2019)\
 Analytics Lead
