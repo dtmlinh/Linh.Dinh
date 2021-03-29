@@ -6,7 +6,7 @@ title: Projects
 
 ## [Chicago PM2.5 Levels Comparison](https://github.com/dtmlinh/Air-Quality-Tool)
 
-   A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
+   A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/)). Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`.
    
    This tool aims to: \
     - illustrate the trends of PM 2.5 measurements in the Chicago area for 4 summers: 2017, 2018, 2019, 2020 \
@@ -15,7 +15,7 @@ title: Projects
       + locate blocks with much higher average PM 2.5 levels \
       + identify hours/time periods with much higher average PM 2.5 levels 
    
-   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`. *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
+   *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
    ![](assets/air_quality_tool.gif)
     
 
@@ -25,9 +25,10 @@ title: Projects
    A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
    
    Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing. Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
-   ![](assets/Housing_Fig5.png) \
-   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
-    
+   
+   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).* \
+   ![](assets/Housing_Fig5.png) 
+   
     
 ## [Fatality rates of U.S. traffic accidents](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
 
@@ -38,6 +39,7 @@ title: Projects
    - average number of minutes injured persons arrive at the hospital \
    - average number of hospitals within a 10 mile radius of the accident \
    - share of state spending on highway investments and health investments \
+   
    ![](assets/Transportation-Analyses.gif) \
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
    
@@ -63,11 +65,11 @@ title: Projects
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
    with Eric Son, Emily Zhang
 
-   A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. 
+   A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`. 
    
    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API.
    
-   Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`. *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
+   *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
    ![](assets/state_energy_search.gif)
     
 
