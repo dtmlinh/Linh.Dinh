@@ -20,7 +20,7 @@ title: Projects
     
 
 ## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) 
-   *with Eric Son, Emily Zhang*
+   *__with Eric Son, Emily Zhang__*
    
    A machine learning model that predicts housing prices for 2021 (2 years ahead the latest available data) in Chicago, IL using neighborhood characteristics. 
    
@@ -45,7 +45,7 @@ title: Projects
    
    
 ## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
-   *with Lily Grier, Roberto Barroso Luque*
+   *__with Lily Grier, Roberto Barroso Luque__*
    
    We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents. Libraries used: word2vec, doc2vec.
    
@@ -54,7 +54,7 @@ title: Projects
     
 
 ## [Feature Extraction on Free-hand Sketches](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
-   *with Xingyu Wang*
+   *__with Xingyu Wang__*
 
    Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
@@ -63,7 +63,7 @@ title: Projects
     
     
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
-   *with Eric Son, Emily Zhang*
+   *__with Eric Son, Emily Zhang__*
 
    A search engine of the energy consumption trends in U.S. states that outputs an energy source table and visual representations of consumption trends over time. Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`. 
    
@@ -74,7 +74,7 @@ title: Projects
     
 
 ## [Food Inspections and Reviews](https://github.com/dtmlinh/Food-Inspections)
-   *with Matthew Mauer*
+   *__with Matthew Mauer__*
    
   A web service that implements: 
    - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`: 
