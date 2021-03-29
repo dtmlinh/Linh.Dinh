@@ -12,11 +12,11 @@ Previously, I was an analytics lead at Everquote, an online marketing startup in
 ## Education
 
 University of Chicago\
-Master of Science in Computational Analysis and Public Policy, Expected June 2021\
+Master of Science in Computational Analysis and Public Policy, Expected June 2021
 - Courses: Machine Learning, Content Analysis, Statistics, Computer Science, Algorithms, Databases, Big Data
 
 Smith College\
-Bachelor of Arts in Mathematics and Economics, January 2014\
+Bachelor of Arts in Mathematics and Economics, January 2014
 - Courses: Statistics, Time Series Analyses, Data Science, Economics, Finance
 
 ## Experience ([LinkedIn](https://www.linkedin.com/in/linh-tdinh/))
