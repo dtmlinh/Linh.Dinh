@@ -6,25 +6,17 @@ title: Projects
 
 ## [Chicago PM2.5 Levels Comparison](https://github.com/dtmlinh/Air-Quality-Tool)
 
-   [Github](https://github.com/dtmlinh/Air-Quality-Tool)
-
-   A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))
-
+   A prototype tool which illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago: ELPC community monitoring ([data](https://airqualitychicago.org/)), Environmental Protection Agency public air sample ([data](https://aqs.epa.gov/aqsweb/documents/data_api.html)), Purple Air self-reported ([data](https://www2.purpleair.com/))\
    This tool aims to:
-    - illustrate the trends of PM 2.5 measurements in the Chicago area for 4 summers: 2017, 2018, 2019, 2020
-    - identify days where the discrepancies (in terms of PM 2.5 levels) between AirQuality, EPA, and PurpleAir data are significant and locate the neighborhoods where these discrepancies might be coming from
-    - provide a more detailed view into specific neighborhoods, more specifically:
-      + locate blocks with much higher average PM 2.5 levels
-      + identify hours/time periods with much higher average PM 2.5 levels
+    - illustrate the trends of PM 2.5 measurements in the Chicago area for 4 summers: 2017, 2018, 2019, 2020\
+    - identify days where the discrepancies (in terms of PM 2.5 levels) between AirQuality, EPA, and PurpleAir data are significant and locate the neighborhoods where these discrepancies might be coming from\
+    - provide a more detailed view into specific neighborhoods, more specifically:\
+      + locate blocks with much higher average PM 2.5 levels\
+      + identify hours/time periods with much higher average PM 2.5 levels\
       
-   Author: Linh Dinh
-
-   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`
-
-   *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*
-    
-   *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*
-    
+   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`\
+   *Access the tool [here](https://chicago-air-quality.herokuapp.com/).*\
+   *And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).*\
    ![](assets/air_quality_tool.gif)
     
 
