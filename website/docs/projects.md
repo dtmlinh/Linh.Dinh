@@ -13,7 +13,7 @@ title: Projects
     - identify days where the discrepancies (in terms of PM 2.5 levels) between AirQuality, EPA, and PurpleAir data are significant and locate the neighborhoods where these discrepancies might be coming from \
     - provide a more detailed view into specific neighborhoods, more specifically: \
       + locate blocks with much higher average PM 2.5 levels \
-      + identify hours/time periods with much higher average PM 2.5 levels \
+      + identify hours/time periods with much higher average PM 2.5 levels 
    
    Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`. *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
    ![](assets/air_quality_tool.gif)
@@ -26,8 +26,8 @@ title: Projects
    
    Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing. Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
    
-   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).* \
-   ![](assets/Housing_Fig5.png)
+   ![](assets/Housing_Fig5.png) \
+   *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).*
     
     
 ## [Fatality rates of U.S. traffic accidents](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
@@ -84,7 +84,7 @@ title: Projects
             - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading 
         - process loaded data: 
             - add/remove table indexes 
-            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes \
+            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes 
         -  return query results: 
             - given a restaurant id, return all of its associated inspections 
             - given an inspection id, return the restaurant info (incl. all linked restaurants) 
