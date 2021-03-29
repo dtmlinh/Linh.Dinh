@@ -15,8 +15,7 @@ title: Projects
       + locate blocks with much higher average PM 2.5 levels \
       + identify hours/time periods with much higher average PM 2.5 levels \
    
-   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku` \
-   *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
+   Frameworks/tools/packages used: `Django`, Webscraping (`Selenium`), API Requests, `Plotly`, `Heroku`. *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
    ![](assets/air_quality_tool.gif)
     
 
@@ -47,7 +46,7 @@ title: Projects
 ## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
    with Lily Grier, Roberto Barroso Luque
    
-   We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents. Libraries used: word2vec, doc2vec. \
+   We used word frequency analysis, dependency parsing, sentiment analysis to show the idiosyncratic nature of presidential speeches. We used word embedding, topic modeling to understand legislative priorities of different presidents. Libraries used: word2vec, doc2vec.
    
    *Access the full report [here](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric/blob/main/paper_folder/CCA_speeches.pdf).* \
    ![](assets/speeches.png)
@@ -56,7 +55,7 @@ title: Projects
 ## [Feature Extraction on Free-hand Sketches](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML)
    with Xingyu Wang
 
-   Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow. \
+   Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).* \
    ![](assets/sketches.png)
@@ -69,8 +68,7 @@ title: Projects
    
    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API.
    
-   Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku` \
-   *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
+   Frameworks/tools/packages used: `Django`, Webscraping (`beautifulsoup4`), API Requests, `sqlite3`, `Heroku`. *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
    ![](assets/state_energy_search.gif)
     
 
@@ -81,7 +79,6 @@ title: Projects
    - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`: 
         - food inspections: can be loaded individually from json format or loaded in bulk from csv format, checked for duplicative data, and handled appropriately 
         - tweets: are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat) 
-
    - GET requests to configure database/transaction settings, process loaded data, and return query results: 
         - database/transaction settings: 
             - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading 
@@ -92,6 +89,7 @@ title: Projects
             - given a restaurant id, return all of its associated inspections 
             - given an inspection id, return the restaurant info (incl. all linked restaurants) 
             - given an inspection id, return all of its associated tweet keys 
+            
    Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/) 
 
 ## Additional older projects 
