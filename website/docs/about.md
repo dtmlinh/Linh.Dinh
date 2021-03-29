@@ -3,9 +3,9 @@ id: about
 title: About
 ---
 
-I'm pursuing an [M.S. in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago, where I study computer science, data science, and public policy. 
+I'm pursuing an [M.S. in Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago, where I study computer science, data science, and public policy. See [Projects](https://dtmlinh.github.io/Linh.Dinh/projects) for some cool school projects I did while in the program.
 
-My interests lie in the applications of data science and machine learning methods that aim to address healthcare and environmental issues. I am currently a value-based payment models intern at the University of Chicago Medicine. In this role, I create reportings and dashboards to support various value-based health programs.
+My interests lie in the applications of data science and machine learning methods that aim to address healthcare and environmental issues. I'm currently a value-based payment models intern at the University of Chicago Medicine. In this role, I create reportings and dashboards to support various value-based health programs.
 
 Previously, I was an analytics lead at Everquote, an online marketing startup in Cambridge, MA, where I used analytics to propose and drive successful marketing strategies. Before that, I was a senior analyst at Compass Lexecon, an economic consulting firm in Washington, DC, where I investigated and analyzed data to better understand and formulate critical arguments used in regulatory proceedings.
 
@@ -36,7 +36,7 @@ Analytics Lead
 Compass Lexecon (Mar 2014 - Oct 2016)\
 Senior Analyst
 
-## Skills
+## Skills ([Github](https://github.com/dtmlinh))
 
 __Expert__
 
