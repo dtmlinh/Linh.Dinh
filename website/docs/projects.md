@@ -73,26 +73,6 @@ title: Projects
    ![](assets/state_energy_search.gif)
     
 
-## [Food Inspections and Reviews](https://github.com/dtmlinh/Food-Inspections)
-   *__with Matthew Mauer__*
-   
-  A web service that implements: 
-   - POST requests to load and process data from food inspections and tweets for restaurants in the Chicago area, which then is stored in a `PostgreSQL` database using `pyscopg2`: 
-        - food inspections: can be loaded individually from json format or loaded in bulk from csv format, checked for duplicative data, and handled appropriately 
-        - tweets: are checked if they match any restaurants in the database, by name (matched by checking 1,2,3, and 4 gram words from tweet text and compare with restaurant name) or location (matched by comparing tweet lon/lat and restaurant lon/lat) 
-   - GET requests to configure database/transaction settings, process loaded data, and return query results: 
-        - database/transaction settings: 
-            - configurable options: reset DB, reset transaction size, abort/rollback transactions, enable bulk-loading 
-        - process loaded data: 
-            - add/remove table indexes 
-            - identify and link restaurants that are the same: record linkage from name, address, city, state, and zip with or without blocking and/or indexes 
-        -  return query results: 
-            - given a restaurant id, return all of its associated inspections 
-            - given an inspection id, return the restaurant info (incl. all linked restaurants) 
-            - given an inspection id, return all of its associated tweet keys 
-            
-   Frameworks/tools/packages used: `bottle`, `pyscopg2-binary` (or just `pyscopg2`), [`textdistance`](https://pypi.org/project/textdistance/), [`strsimpy`](https://pypi.org/project/strsimpy/) 
-
 ## Additional older projects 
 
    On my personal [Github](https://github.com/dtmlinh?tab=repositories). 
