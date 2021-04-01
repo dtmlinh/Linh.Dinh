@@ -50,5 +50,5 @@ Senior Analyst
 - Other tools: Stata, SAS
 
 - Machine Learning libraries: TensorFlow, PyTorch, BERT-family, Word2Vec, Doc2Vec, NLTK
-- Machine Learning theory: CNN, RNN, VAE, self-supervised learning, unsupervised learning, computer vision, reinforcement learning
+- Machine Learning models: CNN, RNN, VAE, self-supervised learning, unsupervised learning, computer vision, reinforcement learning
 
