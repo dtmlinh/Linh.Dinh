@@ -38,17 +38,24 @@ Analytics Lead
 Compass Lexecon (Mar 2014 - Oct 2016)\
 Senior Analyst
 
-## Skills ([Github](https://github.com/dtmlinh))
 
+## Technologies & Methods ([Github](https://github.com/dtmlinh))
 - Programming languages: Python, Scala, Java, R (and Shiny)
-- Python libraries/frameworks: pandas, scikit-learn, seaborn, Django, Bottle
+- Python libraries: Numpy, Pandas, Seaborn, Django, Bottle, etc.
+- AWS: EC2, S3, EMR
 - Databases: MySQL, MS SQL, sqlite3, psycopg2
-- AWS: S3, EMR
 - Big Data tools: Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
 - Webscraping: Html, beautifulsoup4, Selenium WebDriver, API
 - Data Visualization: Tableau, Looker
 - Other tools: Stata, SAS
 
-- Machine Learning libraries: TensorFlow, PyTorch, BERT-family, Word2Vec, Doc2Vec, NLTK
-- Machine Learning models: CNN, RNN, VAE, self-supervised learning, unsupervised learning, computer vision, reinforcement learning
-
+### ML methods
+- ML libraries: TensorFlow, PyTorch, BERT-family, Word2Vec, Doc2Vec, NLTK, etc.
+- Supervised learning models: Ridge, Lasso, Elastic Net, Random Forest, Gradient Boosting, AdaBoost, etc.
+- Hyperparameter tuning: backpropagation algorithm, learning rate, grid search
+- Feature engineering: normalizing, standardizing, one hot encoding, imputation
+- Representation Learning: PCA, dimensionality reduction, Fourier transform, eigenvectors & eigenvalues
+- Deep Learning: CNN, RNN, LSTM, VAE
+- Unsupervised Learning, Self-supervised Learning, Reinforcement Learning
+- Hidden Markov Models
+- NLP methods: word frequency analysis, dependency parsing, sentiment analysis, topic modeling, LDA, Word2Vec, Doc2Vec, NLTK, BERT-family
