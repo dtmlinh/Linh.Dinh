@@ -17,7 +17,6 @@ Master of Science in Computational Analysis and Public Policy, Expected June 202
 
 Smith College\
 Bachelor of Arts in Mathematics and Economics, January 2014
-- Courses: Statistics, Time Series Analyses, Data Science, Economics, Finance
 - Honors Thesis: ["Time series analyses of stock market and consumer confidence indices: A Granger causality test"](https://github.com/dtmlinh/TimeSeriesStockMarkets/blob/main/TimeSeriesAnalysesGrangerCausalityTest.pdf)
 
 
@@ -33,10 +32,10 @@ Chicago Department of Public Health (Dec 2019 - Dec 2020)\
 Public Service Intern
 
 Everquote, Inc. (Oct 2016 - May 2019)\
-Analytics Lead
+Senior Quantitative Analyst, Analytics Lead
 
 Compass Lexecon (Mar 2014 - Oct 2016)\
-Senior Analyst
+Analyst, Senior Analyst
 
 
 ## Technologies & Methods ([Github](https://github.com/dtmlinh))
