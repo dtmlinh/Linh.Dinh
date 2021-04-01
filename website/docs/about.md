@@ -49,7 +49,7 @@ Senior Analyst
 - Data Visualization: Tableau, Looker
 - Other tools: Stata, SAS
 
-### ML methods
+#### ML methods
 - ML libraries: TensorFlow, PyTorch, BERT-family, Word2Vec, Doc2Vec, NLTK, etc.
 - Supervised learning models: Ridge, Lasso, Elastic Net, Random Forest, Gradient Boosting, AdaBoost, etc.
 - Hyperparameter tuning: backpropagation algorithm, learning rate, grid search
