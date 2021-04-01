@@ -13,11 +13,13 @@ Previously, I was an analytics lead at Everquote, an online marketing startup in
 
 University of Chicago\
 Master of Science in Computational Analysis and Public Policy, Expected June 2021
-- Courses: Machine Learning, Content Analysis, Statistics, Computer Science, Algorithms, Databases, Big Data
+- Courses: Machine Learning, Content Analysis, Bioinformatics, Computer Vision, Reinforcement Learning, Statistics, Computer Science, Algorithms, Databases, Big Data
 
 Smith College\
 Bachelor of Arts in Mathematics and Economics, January 2014
 - Courses: Statistics, Time Series Analyses, Data Science, Economics, Finance
+- Honors Thesis: ["Time series analyses of stock market and consumer confidence indices: A Granger causality test"](https://github.com/dtmlinh/TimeSeriesStockMarkets/blob/main/TimeSeriesAnalysesGrangerCausalityTest.pdf)
+
 
 ## Experience ([LinkedIn](https://www.linkedin.com/in/linh-tdinh/))
 
@@ -38,21 +40,15 @@ Senior Analyst
 
 ## Skills ([Github](https://github.com/dtmlinh))
 
-__Expert__
+- Programming languages: Python, Scala, Java, R (and Shiny)
+- Python libraries/frameworks: pandas, scikit-learn, seaborn, Django, Bottle
+- Databases: MySQL, MS SQL, sqlite3, psycopg2
+- AWS: S3, EMR
+- Big Data tools: Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
+- Webscraping: Html, beautifulsoup4, Selenium WebDriver, API
+- Data Visualization: Tableau, Looker
+- Other tools: Stata, SAS
 
-- Python, R, Stata
-- MySQL, MS SQL, sqlite3, psycopg2
-- Tableau, Looker
-- Webscraping (Html, beautifulsoup4, Selenium WebDriver, API)
+- Machine Learning libraries: TensorFlow, PyTorch, BERT-family, Word2Vec, Doc2Vec, NLTK
+- Machine Learning theory: CNN, RNN, VAE, self-supervised learning, unsupervised learning, computer vision, reinforcement learning
 
-__Proficient__
-
-- Django
-- AWS
-- Hadoop, HDFS, MapReduce, Hive, Spark, Hbase, Kafka
-- Machine Learning, Data Visualization
-
-__Novice__
-
-- Java
-- SAS
