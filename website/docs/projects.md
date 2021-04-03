@@ -68,7 +68,6 @@ title: Projects
 | <img src="assets/sketches.png" width="500"/> | <img src="assets/sketches_2.png" width="500"/> |
    
     
-    
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
    *__with Eric Son, Emily Zhang__*
 
