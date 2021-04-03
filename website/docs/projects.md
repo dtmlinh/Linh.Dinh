@@ -16,9 +16,9 @@ title: Projects
       + identify hours/time periods with much higher average PM 2.5 levels 
    
    *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
-   ![](assets/air_quality_tool.gif)
-    
-
+   <img src="assets/air_quality_tool.gif" width="425"/>
+   
+   
 ## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) 
    *__with Eric Son, Emily Zhang__*
    
