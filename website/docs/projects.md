@@ -65,7 +65,7 @@ title: Projects
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Comparison_of_Feature_Extraction_Methods_on_Free_hand_Sketches.pdf).* 
       | Accuracy Scores     | Confusion Matrix |
 | ----------- | ----------- |
-| <img src="assets/sketches.png" height="500"/> | <img src="assets/sketches_2.png" height="500"/> |
+| <img src="assets/sketches.png" width="500"/> | <img src="assets/sketches_2.png" width="500"/> |
    
     
     
