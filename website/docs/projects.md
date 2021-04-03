@@ -41,8 +41,9 @@ title: Projects
    - share of state spending on highway investments and health investments 
    
    ![](assets/Transportation-Analyses.gif) \
+   
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
-   ![](assets/app1.gif)![](assets/app2.gif) \
+   ![](assets/app1.gif) ![](assets/app2.gif) \
    
    
 ## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
