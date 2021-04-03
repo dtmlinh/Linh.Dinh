@@ -43,8 +43,10 @@ title: Projects
    <img src="assets/Transportation-Analyses.gif" width="600" class="centerImage"/>
    
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
-   <img src="assets/app1.gif" width="500"/> <img src="assets/app3.gif" width="500"/>
-
+   | View 1      | View 2 |
+| ----------- | ----------- |
+| <img src="assets/app1.gif" width="500"/> | <img src="assets/app3.gif" width="500"/> |
+  
 
 ## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
    *__with Lily Grier, Roberto Barroso Luque__*
