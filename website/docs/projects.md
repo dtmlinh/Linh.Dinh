@@ -43,7 +43,7 @@ title: Projects
    ![](assets/Transportation-Analyses.gif) \
    
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
-                           |
+             1              | 2
 :-------------------------:|:-------------------------:
 ![](assets/app1.gif)       |  ![](assets/app3.gif) 
    
