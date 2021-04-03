@@ -43,7 +43,7 @@ title: Projects
    <img src="assets/Transportation-Analyses.gif" width="600" class="centerImage"/>
    
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
-   | View 1      | View 2 |
+   | Overtime      | Geo |
 | ----------- | ----------- |
 | <img src="assets/app1.gif" width="500"/> | <img src="assets/app3.gif" width="500"/> |
   
@@ -63,7 +63,10 @@ title: Projects
    Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Comparison_of_Feature_Extraction_Methods_on_Free_hand_Sketches.pdf).* \
-   <img src="assets/sketches.png" width="800" class="centerImage"/>
+      | Accuracy Scores     | Confusion Matrix |
+| ----------- | ----------- |
+| <img src="assets/sketches.png" width="800"/> | <img src="assets/sketches_2.png" width="800"/> |
+   
     
     
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
