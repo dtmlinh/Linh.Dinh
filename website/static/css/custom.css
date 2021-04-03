@@ -45,3 +45,9 @@ ul {
 .social a {
     margin-right: 20px;
 }
+
+.centerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
