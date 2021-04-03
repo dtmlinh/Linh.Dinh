@@ -16,7 +16,7 @@ title: Projects
       + identify hours/time periods with much higher average PM 2.5 levels 
    
    *Access the tool [here](https://chicago-air-quality.herokuapp.com/). And more detailed analysis results can be found [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post).* \
-   <img src="assets/air_quality_tool.gif" width="500"/>
+   <img src="assets/air_quality_tool.gif" width="600"/>
    
    
 ## [Predicting housing prices in Chicago](https://github.com/ymericson/ml-project) 
@@ -27,7 +27,7 @@ title: Projects
    Our housing price data uses housing sales in 2013 - 2019 from the Cook County Assessor's Office, aggregated at the Census block group level. Our features include data on demographics, crime, distance to public transit, and more. The purpose of our model is to predict housing price trends in neighborhoods across Chicago, in order to help the city government better predict the areas where housing prices is expected to rise. More advance notice on housing price trends can help the city assess areas where affordability is expected to be more of an issue, so that they can focus resources for affordable housing. Different sets of hyper parameters for each of the following models were tuned and evaluated: Simple Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
    
    *Access the full report [here](https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post).* \
-   <img src="assets/Housing_Fig5.png" width="500"/>
+   <img src="assets/Housing_Fig5.png" width="800"/>
    
     
 ## [Fatality rates of U.S. traffic accidents](https://github.com/dtmlinh/Traffic-Fatalities-HDFS)
@@ -61,7 +61,7 @@ title: Projects
    Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Comparison_of_Feature_Extraction_Methods_on_Free_hand_Sketches.pdf).* \
-   <img src="assets/sketches.png" width="500"/>
+   <img src="assets/sketches.png" width="800"/>
     
     
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
@@ -72,7 +72,7 @@ title: Projects
    It uses a [Django](https://www.djangoproject.com/) web framework to display a search tool interface with data visualization option to look at a particular state or choose to compare with another state its energy consumption patterns and prices in 2017 (the latest year available), as well as historical time series of energy consumption by source. The state-level data for the project was imported from the [U.S. Energy Information Administration (EIA)](https://www.eia.gov/) website via web scraping and API.
    
    *Access the tool [here](https://us-energy-consumption.herokuapp.com/).* \
-   <img src="assets/state_energy_search.gif" width="500"/>
+   <img src="assets/state_energy_search.gif" width="600"/>
     
 
 ## Additional older projects 
