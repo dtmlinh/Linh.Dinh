@@ -63,9 +63,10 @@ title: Projects
    Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
    *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Comparison_of_Feature_Extraction_Methods_on_Free_hand_Sketches.pdf).* 
+   
 | Accuracy Scores     | Confusion Matrix |
 | ----------- | ----------- |
-| <img src="assets/sketches.png" width="400"/> | <img src="assets/sketches_2.png" width="400"/> |
+| <img src="assets/sketches.png" width="500"/> | <img src="assets/sketches_2.png" width="500"/> |
    
     
 ## [Energy Consumption by State](https://github.com/dtmlinh/Energy-Search-Tool)
