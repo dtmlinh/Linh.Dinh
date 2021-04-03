@@ -42,6 +42,7 @@ title: Projects
    
    ![](assets/Transportation-Analyses.gif) \
    *Additionally, here's a related [Shiny app](https://dtmlinh.shinyapps.io/car-crash-fatalities-exploration-tool/) ([Source Codes](https://github.com/dtmlinh/Car-Crash-Fatalities-Exploration-Tool)) that also looks at car crash fatalities in the U.S ([blog](https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post)).*
+   ![](assets/app1.gif)![](assets/app2.gif) \
    
    
 ## [Understanding Presidential Speeches and Executive Orders through Natural Language Processing](https://github.com/RobertoBarrosoLuque/ContentAnalysisPresidentialRhetoric) 
@@ -58,7 +59,7 @@ title: Projects
 
    Wanting to see how neural network (RNN, CNN) and unsupervised learning methods can aid abstract image classification, we extracted features using PCA, Self-Supervised, and Variational Autoencoder models on Google’s Quick, Draw! data, compared downstream classification results, and found that self-supervised learning techniques generally perform better. Libraries used: Pytorch, Tensorflow.
    
-   *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Unsupervised_Final_Project_Paper.pdf).* \
+   *Access the full report [here](https://github.com/dtmlinh/QuickDraw-Unsupervised-ML/blob/main/Comparison_of_Feature_Extraction_Methods_on_Free_hand_Sketches.pdf).* \
    ![](assets/sketches.png)
     
     
