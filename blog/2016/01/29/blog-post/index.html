@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Simulation: Energy Conservation in Discrete Universe · Linh Dinh</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="A simulation of a discrete agent-based universe in which each agent reacts to each other according to Newton&#x27;s law of universal gravitation. "/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Simulation: Energy Conservation in Discrete Universe · Linh Dinh"/><meta property="og:type" content="website"/><meta property="og:url" content="https://dtmlinh.github.io/Linh.Dinh/blog/2016/01/29/blog-post"/><meta property="og:description" content="A simulation of a discrete agent-based universe in which each agent reacts to each other according to Newton&#x27;s law of universal gravitation. "/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/Linh.Dinh/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://dtmlinh.github.io/Linh.Dinh/blog/atom.xml" title="Linh Dinh Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://dtmlinh.github.io/Linh.Dinh/blog/feed.xml" title="Linh Dinh Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/Linh.Dinh/js/scrollSpy.js"></script><link rel="stylesheet" href="/Linh.Dinh/css/main.css"/><script src="/Linh.Dinh/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/Linh.Dinh/"><h2 class="headerTitle">Linh Dinh</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/Linh.Dinh/about" target="_self">About</a></li><li class=""><a href="/Linh.Dinh/projects" target="_self">Projects</a></li><li class="siteNavGroupActive"><a href="/Linh.Dinh/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/Linh.Dinh/blog/2020/11/02/blog-post">Data Viz: Chicago PM2.5 Levels</a></li><li class="navListItem"><a class="navItem" href="/Linh.Dinh/blog/2020/06/15/blog-post">Machine Learning: Chicago Housing Prices</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/Linh.Dinh/blog/2016/01/29/blog-post">Simulation: Energy Conservation in Discrete Universe</a></li><li class="navListItem"><a class="navItem" href="/Linh.Dinh/blog/2014/04/10/blog-post">Data Viz: Car Crash Fatalities Exploration Tool</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="lonePost"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/Linh.Dinh/blog/2016/01/29/blog-post">Simulation: Energy Conservation in Discrete Universe</a></h1><p class="post-meta">January 29, 2016</p><div class="authorBlock"><p class="post-authorName"><a target="_blank" rel="noreferrer noopener">Linh Dinh</a></p></div></header><div><span><p>A simulation of a discrete agent-based universe in which each agent reacts to each other according to Newton's law of universal gravitation.</p>
+<!--truncate-->
+<h2><a class="anchor" aria-hidden="true" id="project-description"></a><a href="#project-description" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Description</h2>
+<p>This Mathematica simulation is an agent-based universe in which each agent reacts to each other according to Newton's law of universal gravitation. Everything is discrete, including time.</p>
+<p>The questions of interest are:</p>
+<ul>
+<li>How does the initial velocity of one planet affect its trajectory around the sun? How about mass? Location?</li>
+<li>By calculating the gravitational potential (also known as Newtonian potential) energy and the kinetic energy, we will investigate whether the total energy can be conserved in a discrete universe.</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="theoretical-framework"></a><a href="#theoretical-framework" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Theoretical Framework</h2>
+<p>First, because of the complexity of simulating the entire solar system, only the sun and one planet are included in this model. The sun is set to be initially located at the origin. This origin position (x<sub>p</sub>, y<sub>p</sub>), the initial velocities (x<sub>v</sub>, y<sub>v</sub>), and the mass of the planet can be manipulated in the model. Each agent will interact with each other according to Newton's law of universal gravitation:</p>
+<p>F = G * (m<sub>1</sub> * m<sub>2</sub>) / r<sup>2</sup></p>
+<p>where:</p>
+<p>F is the force between the masses,</p>
+<p>G is the gravitational constant,</p>
+<p>m<sub>1</sub> is the first mass,</p>
+<p>m<sub>2</sub> is the second mass, and</p>
+<p>r is the distance between the centers of the masses.</p>
+<p>In this equation, r is calculated as √((x<sub>p1</sub> - x<sub>p2</sub>)<sup>2</sup> + (y<sub>p1</sub> - y<sub>p2</sub>)<sup>2</sup>)</p>
+<p>After that, we can apply the Newton's law of motion: F = m * a to derive the acceleration vector of each sun. Since we have the initial velocity (v<sub>t</sub>), we can obtain the velocity (v<sub>0</sub>) after each unit of time (potentially every second) using the equation v<sub>t</sub> = v<sub>0</sub> + a<sub>t</sub>. The suns will move accordingly to their velocity vectors (x<sub>v</sub>, y<sub>v</sub>) and arrive at new positions. Since our universe is discreet, we can only report the positions of all the suns discreetly at each given time.
+At each given time and velocity, we can calculate the total energy of each sun using the gravitational potential energy formula and kinetic energy formula:</p>
+<p>U = -m * ∑ [G * (M / r)]</p>
+<p>E<sub>k</sub> =  1/2 * m * v<sup>2</sup></p>
+<p>The total energy of the entire universe is then calculated and presented in a graph.</p>
+<h2><a class="anchor" aria-hidden="true" id="usage"></a><a href="#usage" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Usage</h2>
+<p>By selecting the initial values for: location (distance of the planet from the sun), mass (in this simulation, we will assume the sun and the planet have equal masses), and velocity (initial velocity of the planet), we can look at how the planet would orbit around the sun.</p>
+<p><img src="/Linh.Dinh/blog/assets/uniDemo1.gif" alt="alt-text"></p>
+<p>With the chosen location, mass, velocity, we can calculate and plot gravitational potential energy (in blue), the kinetic energy (in orange), and the total energy (in red) of the system.</p>
+<p><img src="/Linh.Dinh/blog/assets/uniDemo2.png" alt="alt-text"></p>
+<h2><a class="anchor" aria-hidden="true" id="observations"></a><a href="#observations" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Observations</h2>
+<ul>
+<li><p>For a given mass and location, there is a certain range of initial velocity for the planet to orbit around the sun. Below that range, the planet will collide with the sun and above that range, the planet will move away from the sun. We can see this by adjusting the initial velocity on the sliding scale.</p></li>
+<li><p>For a given initial velocity and location, the mass of the planet will have an impact on the trajectory of the sun (once the mass of the planet is large enough). For a given mass and initial velocity, the location of the planet with respect to the sun will also have an impact on its own trajectory. We can see this by adjusting the location on the sliding scale.</p></li>
+<li><p>We can also see that the potential energy (in blue) and the kinetic energy (in orange) change with time while the total energy seems to be conserved at a constant level.</p></li>
+</ul>
+<p><img src="/Linh.Dinh/blog/assets/unifig1.png" alt="alt-text"></p>
+<p><img src="/Linh.Dinh/blog/assets/unifig2.png" alt="alt-text"></p>
+<p><img src="/Linh.Dinh/blog/assets/unifig3.png" alt="alt-text"></p>
+</span></div></div><div class="blogSocialSection"></div></div><div class="blog-recent"><a class="button" href="/Linh.Dinh/blog/">Recent Posts</a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#project-description">Project Description</a></li><li><a href="#theoretical-framework">Theoretical Framework</a></li><li><a href="#usage">Usage</a></li><li><a href="#observations">Observations</a></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="social"><a href="https://www.linkedin.com/in/linh-tdinh" target="_blank" class="social"><img alt="LinkedIn" src="/Linh.Dinh/img/linkedin.svg"/></a><a href="https://twitter.com/" target="_blank" class="social"><img alt="Twitter" src="/Linh.Dinh/img/twitter.svg"/></a><a href="https://github.com/dtmlinh" target="_blank" class="social"><img alt="GitHub" src="/Linh.Dinh/img/github.svg"/></a></section><section class="copyright">Copyright © 2021 Linh Dinh. Created with Docusaurus.</section></footer></div></body></html>

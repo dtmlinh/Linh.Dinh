@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dtmlinh.github.io/Linh.Dinh/blog</id>
+    <title>Linh Dinh Blog</title>
+    <updated>2020-11-02T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dtmlinh.github.io/Linh.Dinh/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Linh Dinh news and events.</subtitle>
+    <logo>https://dtmlinh.github.io/Linh.Dinh/undefined</logo>
+    <rights>Copyright © 2021 Linh Dinh</rights>
+    <entry>
+        <title type="html"><![CDATA[Data Viz: Chicago PM2.5 Levels]]></title>
+        <id>https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post.html</id>
+        <link href="https://dtmlinh.github.io/Linh.Dinh/blog/2020/11/02/blog-post.html"/>
+        <updated>2020-11-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>This <a href="https://chicago-air-quality.herokuapp.com/">prototype tool</a> illustrates and compares 3 different PM 2.5 data sources, by day and neighborhood, in Chicago.</p>
+]]></summary>
+        <author>
+            <name>Linh Dinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning: Chicago Housing Prices]]></title>
+        <id>https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post.html</id>
+        <link href="https://dtmlinh.github.io/Linh.Dinh/blog/2020/06/15/blog-post.html"/>
+        <updated>2020-06-15T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Predicting Chicago housing prices based on neighborhood characteristics.</p>
+]]></summary>
+        <author>
+            <name>Linh Dinh, Eric Son, Emily Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulation: Energy Conservation in Discrete Universe]]></title>
+        <id>https://dtmlinh.github.io/Linh.Dinh/blog/2016/01/29/blog-post.html</id>
+        <link href="https://dtmlinh.github.io/Linh.Dinh/blog/2016/01/29/blog-post.html"/>
+        <updated>2016-01-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>A simulation of a discrete agent-based universe in which each agent reacts to each other according to Newton's law of universal gravitation.</p>
+]]></summary>
+        <author>
+            <name>Linh Dinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Viz: Car Crash Fatalities Exploration Tool]]></title>
+        <id>https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post.html</id>
+        <link href="https://dtmlinh.github.io/Linh.Dinh/blog/2014/04/10/blog-post.html"/>
+        <updated>2014-04-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>An R project to investigate Car Crash Fatalities in the US using shiny-apps.</p>
+]]></summary>
+        <author>
+            <name>Linh Dinh</name>
+        </author>
+    </entry>
+</feed>
